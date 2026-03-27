@@ -1,0 +1,2 @@
+dt_au,burn_time,trajectory_time,n_replicas,rms_cqq,rms_cqp,rms_cpp
+0.01,50.0,200.0,256,0.0018658794722363954,0.0013494941992672886,0.0013211847155641665
